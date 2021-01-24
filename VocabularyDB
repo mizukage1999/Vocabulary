@@ -1,0 +1,228 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "name": "Learning tools",
+      "vietsub": "Dụng cụ học tập",
+      "image": "https://www.flaticon.com/svg/vstatic/svg/2132/2132405.svg"
+    },
+    {
+      "id": 2,
+      "name": "Fruits",
+      "vietsub": "Trái cây",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/528/528407.svg"
+    },
+    {
+      "id": 3,
+      "name": "Animal",
+      "vietsub": "Động vật",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/449/449631.svg"
+    },
+    {
+      "id": 4,
+      "name": "Cardinal number",
+      "vietsub": "Số đếm",
+      "image": "https://www.flaticon.com/svg/vstatic/svg/1016/1016502.svg"
+      
+    }
+  ],
+  "vocabulary": [
+    {
+      "key": 1,
+      "nameFr": "Pen",
+      "nameVn": "Bút mực",
+      "IPA": "[pen]",
+      "categorie": 1,
+      "image": "https://cdn2.iconfinder.com/data/icons/scenarium-vol-3-1/128/049_airplane_transport_clouds_fly_flight-256.png",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/39419.mp3",
+      "exFr1": "Pencil",
+      "exVn1": "Bút chì",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 2,
+      "nameFr": "Paper",
+      "nameVn": "Giấy",
+      "IPA": "[pāpər]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/svg/vstatic/svg/887/887997.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/38615.mp3",
+      "exFr1": "",
+      "exVn1": "",
+      "exFr2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 3,
+      "nameFr": "Ambulance",
+      "nameVn": "Xe cứu thương",
+      "IPA": "[ɑ̃bylɑ̃s]",
+      "categorie": 1,
+      "image": "https://cdn4.iconfinder.com/data/icons/jetflat-2-vehicles-vol-1/60/001_010_car_ambulance_transport_aid_doctor-256.png",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002780.mp3",
+      "exFr1": "",
+      "exVn1": "",
+      "exFr2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 4,
+      "nameFr": "Camion",
+      "nameVn": "Xe tải",
+      "IPA": "[kamjɔ̃]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2656/2656273.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0050470.mp3",
+      "exFr1": "Camion amphibie",
+      "exVn1": "Xe tải lội nước",
+      "exFr2": "Camion chenillé",
+      "exVn2": "Xe tải bánh xích",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 5,
+      "nameFr": "Ananas",
+      "nameVn": "Trái dứa",
+      "IPA": "[anana(s)]",
+      "categorie": 2,
+      "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_pineapple-256.png",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0064640.mp3",
+      "exFr1": "",
+      "exVn1": "",
+      "exFr2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 6,
+      "nameFr": "Pomme",
+      "nameVn": "Trái táo",
+      "IPA": "[pɔm]",
+      "categorie": 2,
+      "image": "https://cdn3.iconfinder.com/data/icons/unigrid-flat-fruits-vegetables/90/010_008_apple_fruit_food-256.png",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0003820.mp3",
+      "exFr1": "",
+      "exVn1": "",
+      "exFr2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 7,
+      "nameFr": "Banane",
+      "nameVn": "Trái chuối",
+      "IPA": "[banan]",
+      "categorie": 2,
+      "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_banana-256.png",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0006470.mp3",
+      "exFr1": "",
+      "exVn1": "",
+      "exFr2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 8,
+      "nameFr": "Cerf",
+      "nameVn": "Hươu",
+      "IPA": "[sɛʀ]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2097/2097887.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/fr_cerf.mp3",
+      "exFr1": "Les bois du cerf",
+      "exVn1": "Gạc hươu",
+      "exFr2": "Femelle du cerf",
+      "exVn2": "Hươu cái",
+      "others": [
+        "(từ đồng âm) serre",
+        "Nhà kính, sức ép",
+        "Donner une première serre au raisin",
+        "Ép nho lần thứ nhất"
+      ]
+    },
+    {
+      "key": 9,
+      "nameFr": "Gorille",
+      "nameVn": "Khỉ đột",
+      "IPA": "[ɡɔʀij]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2559/2559425.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0037300.mp3",
+      "exFr1": "Les gorilles musclés",
+      "exVn1": "Những con khỉ đột lực lưỡng",
+      "exFr2": "Gorille et forêt",
+      "exVn2": "Khỉ đột và rừng",
+      "others": [
+        "(thân mật, nghĩa bóng) vệ sĩ, cận vệ",
+        "Les gorilles du Président",
+        "Những cận vệ của tống thống"
+      ]
+    },
+    {
+      "key": 10,
+      "nameFr": "Lapin",
+      "nameVn": "Thỏ",
+      "IPA": "[lapɛ̃]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2716/2716961.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0069770.mp3",
+      "exFr1": "Lapin de garenne",
+      "exVn1": "Thỏ hoang",
+      "exFr2": "Femelle du lapin",
+      "exVn2": "Thỏ cái",
+      "others": [
+        ""
+      ]
+    },
+    {
+      "key": 11,
+      "nameFr": "Cheval",
+      "nameVn": "Ngựa",
+      "IPA": "[ʃ(ə)val]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/3042/3042491.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0041570.mp3",
+      "exFr1": "Cri du cheval",
+      "exVn1": "Tiếng ngựa hí",
+      "exFr2": "Monter à cheval",
+      "exVn2": "Cưỡi ngựa",
+      "others": [
+        "(nghĩa bóng, nghĩa cũ) người thô thiển, tàn nhẫn",
+        "Un vrai cheval",
+        "Một người thô thển thực sự"
+      ]
+    },
+    {
+      "key": 13,
+      "nameFr": "Loup",
+      "nameVn": "Chó sói",
+      "IPA": "[lu]",
+      "categorie": 3,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/165/165191.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0100460.mp3",
+      "exFr1": "Chasse du loup",
+      "exVn1": "Sự săn chó sói",
+      "exFr2": "Mon petit loup",
+      "exVn2": "Sói con bé bỏng của tôi",
+      "others": [
+        ""
+      ]
+    }
+  ]
+}
