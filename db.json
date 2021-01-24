@@ -29,13 +29,13 @@
   "vocabulary": [
     {
       "key": 1,
-      "nameFr": "Pen",
+      "nameEn": "Pen",
       "nameVn": "Bút mực",
       "IPA": "[pen]",
       "categorie": 1,
       "image": "https://cdn2.iconfinder.com/data/icons/scenarium-vol-3-1/128/049_airplane_transport_clouds_fly_flight-256.png",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/39419.mp3",
-      "exFr1": "Pencil",
+      "exEn1": "Pencil",
       "exVn1": "Bút chì",
       "others": [
         ""
@@ -43,15 +43,15 @@
     },
     {
       "key": 2,
-      "nameFr": "Paper",
+      "nameEn": "Paper",
       "nameVn": "Giấy",
       "IPA": "[pāpər]",
       "categorie": 1,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/3073/3073464.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/38615.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -59,15 +59,15 @@
     },
     {
       "key": 3,
-      "nameFr": "Glue",
+      "nameEn": "Glue",
       "nameVn": "keo dán",
       "IPA": "[ɡlo͞o]",
       "categorie": 1,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/2655/2655812.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/23899.mp3",
-      "exFr1": "gummy",
+      "exEn1": "gummy",
       "exVn1": "kẹo dẻo",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -75,15 +75,15 @@
     },
     {
       "key": 4,
-      "nameFr": "Book",
+      "nameEn": "Book",
       "nameVn": "Sách",
       "IPA": "[bo͝ok̃]",
       "categorie": 1,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/3145/3145765.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/05846.mp3",
-      "exFr1": "Note",
+      "exEn1": "Note",
       "exVn1": "Ghi chú",
-      "exFr2": "Record",
+      "exEn2": "Record",
       "exVn2": "Ghi lại",
       "others": [
         ""
@@ -91,15 +91,15 @@
     },
     {
       "key": 5,
-      "nameFr": "Pineapple",
+      "nameEn": "Pineapple",
       "nameVn": "Trái dứa",
       "IPA": "[pīˌnapəl]",
       "categorie": 2,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/3151/3151121.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/40436.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -107,15 +107,15 @@
     },
     {
       "key": 6,
-      "nameFr": "Apple",
+      "nameEn": "Apple",
       "nameVn": "Trái táo",
       "IPA": "[ˈapəl]",
       "categorie": 2,
       "image": "https://cdn3.iconfinder.com/data/icons/unigrid-flat-fruits-vegetables/90/010_008_apple_fruit_food-256.png",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/02214.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -123,15 +123,15 @@
     },
     {
       "key": 7,
-      "nameFr": "Banana",
+      "nameEn": "Banana",
       "nameVn": "Trái chuối",
       "IPA": "[bəˈnanə]",
       "categorie": 2,
       "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_banana-256.png",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/03673.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -139,15 +139,15 @@
     },
     {
       "key": 8,
-      "nameFr": "giraffe",
+      "nameEn": "giraffe",
       "nameVn": "Hươu cao cổ",
       "IPA": "[jəˈraf]",
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/3065/3065712.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/23668.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         
@@ -155,15 +155,15 @@
     },
     {
       "key": 9,
-      "nameFr": "Gorillas",
+      "nameEn": "Gorillas",
       "nameVn": "Khỉ đột",
       "IPA": "[gərɪlə]",
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/2559/2559425.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/24187.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -171,15 +171,15 @@
     },
     {
       "key": 10,
-      "nameFr": "Rabbit",
+      "nameEn": "Rabbit",
       "nameVn": "Thỏ",
       "IPA": "[ˈrabət̃]",
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/2716/2716961.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/43904.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -187,15 +187,15 @@
     },
     {
       "key": 11,
-      "nameFr": "Horse",
+      "nameEn": "Horse",
       "nameVn": "Ngựa",
       "IPA": "[hɔːʳs]",
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/3042/3042491.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/26795.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -203,15 +203,15 @@
     },
     {
       "key": 13,
-      "nameFr": "Wolf",
+      "nameEn": "Wolf",
       "nameVn": "Chó sói",
       "IPA": "[wʊlf]",
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/165/165191.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0100460.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
@@ -219,15 +219,15 @@
     },
     {
       "key": 14,
-      "nameFr": "numerical order",
+      "nameEn": "numerical order",
       "nameVn": "thứ tự số",
       "IPA": "[ˈôrdnəl ˈnəmbər]",
       "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/2106/2106494.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37537.mp3",
-      "exFr1": "",
+      "exEn1": "",
       "exVn1": "",
-      "exFr2": "",
+      "exEn2": "",
       "exVn2": "",
       "others": [
         ""
