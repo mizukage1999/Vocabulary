@@ -95,7 +95,7 @@
       "nameVn": "Bút lông",
       "IPA": "[ˈmärkər]",
       "categorie": 1,
-      "image": "https://www.flaticon.com/svg/vstatic/svg/4100/4100555.svg",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/1142/1142596.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/33229.mp3",
       "exEn1": "Note",
       "exVn1": "Ghi chú",
@@ -188,12 +188,12 @@
     },
      {
       "key": 16,
-      "nameEn": "Orange",
-      "nameVn": "Trái cam",
-      "IPA": "[ɒrɪndʒ]",
+      "nameEn": "Guava",
+      "nameVn": "Trái ổi",
+      "IPA": "[gwɑːvə]",
       "categorie": 2,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/1791/1791312.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37482.mp3",
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2690/2690186.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/24837.mp3",
       "exEn1": "",
       "exVn1": "",
       "exEn2": "",
@@ -274,6 +274,70 @@
       "categorie": 3,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/165/165191.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0100460.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 17,
+      "nameEn": "one",
+      "nameVn": "số 1",
+      "IPA": "[wʌn]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097244.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37249.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+       {
+      "key": 18,
+      "nameEn": "two",
+      "nameVn": "số 2",
+      "IPA": "[tuː]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097266.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/58657.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+      {
+      "key": 19,
+      "nameEn": "three",
+      "nameVn": "số 3",
+      "IPA": "[θriː]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097290.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/56756.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+      {
+      "key": 21,
+      "nameEn": "four",
+      "nameVn": "số 4",
+      "IPA": "[fɔːʳ ]",
+      "categorie": 4,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/2121/2121152.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/22252.mp3",
       "exEn1": "",
       "exVn1": "",
       "exEn2": "",
