@@ -89,9 +89,25 @@
         ""
       ]
     },
+     {
+      "key": 12,
+      "nameEn": "Marker",
+      "nameVn": "Bút lông",
+      "IPA": "[ˈmärkər]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/svg/vstatic/svg/4100/4100555.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/33229.mp3",
+      "exEn1": "Note",
+      "exVn1": "Ghi chú",
+      "exEn2": "Record",
+      "exVn2": "Ghi lại",
+      "others": [
+        ""
+      ]
+    },
     {
       "key": 20,
-      "nameEn": "Ruler",x`
+      "nameEn": "Ruler",
       "nameVn": "Thước",
       "IPA": "[̃ˈro͞olər]",
       "categorie": 1,
@@ -146,6 +162,38 @@
       "categorie": 2,
       "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_banana-256.png",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/03673.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 15,
+      "nameEn": "Orange",
+      "nameVn": "Trái cam",
+      "IPA": "[ɒrɪndʒ]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/1791/1791312.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37482.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+     {
+      "key": 16,
+      "nameEn": "Orange",
+      "nameVn": "Trái cam",
+      "IPA": "[ɒrɪndʒ]",
+      "categorie": 2,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/1791/1791312.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37482.mp3",
       "exEn1": "",
       "exVn1": "",
       "exEn2": "",
