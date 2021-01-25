@@ -90,6 +90,22 @@
       ]
     },
     {
+      "key": 20,
+      "nameEn": "Ruler",x`
+      "nameVn": "Thước",
+      "IPA": "[̃ˈro͞olər]",
+      "categorie": 1,
+      "image": "https://www.flaticon.com/premium-icon/icons/svg/186/186278.svg",
+      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/47461.mp3",
+      "exEn1": "",
+      "exVn1": "",
+      "exEn2": "",
+      "exVn2": "",
+      "others": [
+        ""
+      ]
+    },
+    {
       "key": 5,
       "nameEn": "Pineapple",
       "nameVn": "Trái dứa",
@@ -105,6 +121,7 @@
         ""
       ]
     },
+    
     {
       "key": 6,
       "nameEn": "Apple",
