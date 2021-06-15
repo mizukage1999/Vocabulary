@@ -90,7 +90,7 @@
       ]
     },
      {
-      "key": 12,
+      "key": 5,
       "nameEn": "Marker",
       "nameVn": "Bút lông",
       "IPA": "[ˈmärkər]",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "key": 20,
+      "key": 6,
       "nameEn": "Ruler",
       "nameVn": "Thước",
       "IPA": "[̃ˈro͞olər]",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "key": 5,
+      "key": 7,
       "nameEn": "Pineapple",
       "nameVn": "Trái dứa",
       "IPA": "[pīˌnapəl]",
@@ -139,7 +139,7 @@
     },
     
     {
-      "key": 6,
+      "key": 8,
       "nameEn": "Apple",
       "nameVn": "Trái táo",
       "IPA": "[ˈapəl]",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "key": 7,
+      "key": 9,
       "nameEn": "Banana",
       "nameVn": "Trái chuối",
       "IPA": "[bəˈnanə]",
@@ -171,7 +171,7 @@
       ]
     },
      {
-      "key": 15,
+      "key": 10,
       "nameEn": "Orange",
       "nameVn": "Trái cam",
       "IPA": "[ɒrɪndʒ]",
@@ -187,7 +187,7 @@
       ]
     },
      {
-      "key": 16,
+      "key": 11,
       "nameEn": "Guava",
       "nameVn": "Trái ổi",
       "IPA": "[gwɑːvə]",
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "key": 8,
+      "key": 12,
       "nameEn": "giraffe",
       "nameVn": "Hươu cao cổ",
       "IPA": "[jəˈraf]",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "key": 9,
+      "key": 13,
       "nameEn": "Gorillas",
       "nameVn": "Khỉ đột",
       "IPA": "[gərɪlə]",
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "key": 10,
+      "key": 14,
       "nameEn": "Rabbit",
       "nameVn": "Thỏ",
       "IPA": "[ˈrabət̃]",
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "key": 11,
+      "key": 15,
       "nameEn": "Horse",
       "nameVn": "Ngựa",
       "IPA": "[hɔːʳs]",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "key": 13,
+      "key": 16,
       "nameEn": "Wolf",
       "nameVn": "Chó sói",
       "IPA": "[wʊlf]",
@@ -282,7 +282,7 @@
         ""
       ]
     },
-       "key": 14,
+       "key": 17,
       "nameEn": "belt",
       "nameVn": "thắt lưng",
       "IPA": "[belt]",
@@ -298,7 +298,7 @@
       ]
     },
      {
-      "key": 17,
+      "key": 18,
      "nameEn": "bag",
       "nameVn": "túi",
       "IPA": "[bæg]",
@@ -314,7 +314,7 @@
       ]
     },
        {
-      "key": 18,
+      "key": 19,
       "nameEn": "earring",
       "nameVn": "bông tai",
       "IPA": "[ɪərɪŋ]",
@@ -330,7 +330,7 @@
       ]
     },
       {
-      "key": 19,
+      "key": 20,
       "nameEn": "glasses",
       "nameVn": "kính",
       "IPA": "[ˈɡlɑːsɪz]",
