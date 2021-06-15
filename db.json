@@ -30,12 +30,7 @@
       "vietsub": "Hoạt động",
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/3201226.svg" 
     },
-    {
-      "id": 6,
-      "name": "Bedrooms",
-      "vietsub": "Phòng ngủ",
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/566640.svg" 
-    }
+
     
   ],
   "vocabulary": [
@@ -558,118 +553,6 @@
       "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3162533.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/57507.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 36,
-      "nameEn": "single bed",
-      "nameVn": "giường đơn",
-      "IPA": "[ˈsɪŋɡəl bɛd]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2338247.svg",
-      "url": "",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 37,
-      "nameEn": "duvet",
-      "nameVn": "chăn bông",
-      "IPA": "[duːveɪ]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/4427082.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17599.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 38,
-      "nameEn": "blanket",
-      "nameVn": "cái mền",
-      "IPA": "[blæŋkɪt]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3328006.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/05194.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-     {
-      "key": 39,
-      "nameEn": "lamp",
-      "nameVn": "đèn",
-      "IPA": "[læmp]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3172795.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/30791.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 40,
-      "nameEn": "pillow",
-      "nameVn": "cái gối",
-      "IPA": "[pɪloʊ]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3364411.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/40380.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-     {
-      "key": 41,
-      "nameEn": "wardrobe",
-      "nameVn": "tủ quần áo",
-      "IPA": "[wɔː'droʊb]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2697264.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/61010.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-     {
-      "key": 42,
-      "nameEn": "carpet",
-      "nameVn": "thảm",
-      "IPA": "[kɑː'pɪt]",
-      "categorie": 6,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2251828.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/08000.mp3",
       "exEn1": "",
       "exVn1": "",
       "exEn2": "",
