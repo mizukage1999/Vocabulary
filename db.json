@@ -282,7 +282,8 @@
         ""
       ]
     },
-       "key": 17,
+    {
+      "key": 17,
       "nameEn": "belt",
       "nameVn": "thắt lưng",
       "IPA": "[belt]",
@@ -296,7 +297,7 @@
       "others": [
         ""
       ]
-    },
+    },  
      {
       "key": 18,
      "nameEn": "bag",
