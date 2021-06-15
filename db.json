@@ -359,7 +359,7 @@
       "key": 21,
       "nameEn": "four",
       "nameVn": "số 4",
-      "IPA": "[fɔːʳ ]",
+      "IPA": "[fɔː]",
       "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/2121/2121152.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/22252.mp3",
@@ -743,7 +743,7 @@
       "key": 44,
       "nameEn": "wardrobe",
       "nameVn": "tủ quần áo",
-      "IPA": "[wɔːʳdroʊb]",
+      "IPA": "[wɔː'droʊb]",
       "categorie": 7,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2697264.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/61010.mp3",
@@ -759,7 +759,7 @@
       "key": 45,
       "nameEn": "carpet",
       "nameVn": "thảm",
-      "IPA": "[kɑːʳpɪt]",
+      "IPA": "[kɑː'pɪt]",
       "categorie": 7,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2251828.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/08000.mp3",
@@ -839,7 +839,7 @@
       "key": 50,
       "nameEn": "beer",
       "nameVn": "bia",
-      "IPA": "[bɪəʳ]",
+      "IPA": "[bɪə]",
       "categorie": 8,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2970151.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/04412.mp3",
@@ -855,7 +855,7 @@
       "key": 51,
       "nameEn": "water",
       "nameVn": "nước",
-      "IPA": "[wɔːtəʳ]",
+      "IPA": "[wɔːtə]",
       "categorie": 8,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3248369.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/61154.mp3",
@@ -882,6 +882,6 @@
       "others": [
         ""
       ]
-    },
+    }
   ]
 }
