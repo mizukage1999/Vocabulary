@@ -42,12 +42,6 @@
       "name": "Bedrooms",
       "vietsub": "Phòng ngủ",
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/566640.svg" 
-    },
-       {
-      "id": 8,
-      "name": "Drinks",
-      "vietsub": "Đồ uống",
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3194639.svg" 
     }
     
   ],
@@ -763,118 +757,6 @@
       "categorie": 7,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2251828.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/08000.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 46,
-      "nameEn": "wine",
-      "nameVn": "rượu",
-      "IPA": "[waɪn]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/763072.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/62033.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 47,
-      "nameEn": "juice",
-      "nameVn": "nước ép",
-      "IPA": "[dʒuːs]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1687077.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/30116.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-     {
-      "key": 48,
-      "nameEn": "tea",
-      "nameVn": "trà",
-      "IPA": "[tiː]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2418214.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/56010.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 49,
-      "nameEn": "milk",
-      "nameVn": "sữa",
-      "IPA": "[mɪlk]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/869664.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/34201.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 50,
-      "nameEn": "beer",
-      "nameVn": "bia",
-      "IPA": "[bɪə]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2970151.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/04412.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 51,
-      "nameEn": "water",
-      "nameVn": "nước",
-      "IPA": "[wɔːtə]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3248369.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/61154.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-     {
-      "key": 52,
-      "nameEn": "coffee",
-      "nameVn": "cà phê",
-      "IPA": "[kɒfi]",
-      "categorie": 8,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1047503.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/10268.mp3",
       "exEn1": "",
       "exVn1": "",
       "exEn2": "",
