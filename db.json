@@ -20,25 +20,18 @@
     },
     {
       "id": 4,
-      "name": "Cardinal number",
-      "vietsub": "Số đếm",
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/709/709337.svg"
-      
-    },
-    {
-      "id": 5,
       "name": "Accessories",
       "vietsub": "Phụ kiện",
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/3659892.svg" 
     },
      {
-      "id": 6,
+      "id": 5,
       "name": "Actions",
       "vietsub": "Hoạt động",
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/3201226.svg" 
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Bedrooms",
       "vietsub": "Phòng ngủ",
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/566640.svg" 
@@ -301,92 +294,11 @@
         ""
       ]
     },
-     {
-      "key": 17,
-      "nameEn": "one",
-      "nameVn": "số 1",
-      "IPA": "[wʌn]",
-      "categorie": 4,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097244.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37249.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-       {
-      "key": 18,
-      "nameEn": "two",
-      "nameVn": "số 2",
-      "IPA": "[tuː]",
-      "categorie": 4,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097266.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/58657.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-      {
-      "key": 19,
-      "nameEn": "three",
-      "nameVn": "số 3",
-      "IPA": "[θriː]",
-      "categorie": 4,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/3097/3097290.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/56756.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-      {
-      "key": 21,
-      "nameEn": "four",
-      "nameVn": "số 4",
-      "IPA": "[fɔː]",
-      "categorie": 4,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/2121/2121152.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/22252.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-    {
-      "key": 14,
-      "nameEn": "numerical order",
-      "nameVn": "thứ tự số",
-      "IPA": "[ˈôrdnəl ˈnəmbər]",
-      "categorie": 4,
-      "image": "https://www.flaticon.com/premium-icon/icons/svg/2106/2106494.svg",
-      "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/37537.mp3",
-      "exEn1": "",
-      "exVn1": "",
-      "exEn2": "",
-      "exVn2": "",
-      "others": [
-        ""
-      ]
-    },
-        {
-      "key": 22,
+       "key": 14,
       "nameEn": "belt",
       "nameVn": "thắt lưng",
       "IPA": "[belt]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/2777903.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/04599.mp3",
       "exEn1": "",
@@ -397,12 +309,12 @@
         ""
       ]
     },
-        {
-      "key": 23,
-      "nameEn": "bag",
+     {
+      "key": 17,
+     "nameEn": "bag",
       "nameVn": "túi",
       "IPA": "[bæg]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/2822424.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/03508.mp3",
       "exEn1": "",
@@ -413,12 +325,12 @@
         ""
       ]
     },
-      {
-      "key": 24,
+       {
+      "key": 18,
       "nameEn": "earring",
       "nameVn": "bông tai",
       "IPA": "[ɪərɪŋ]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/2954566.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17704.mp3",
       "exEn1": "",
@@ -429,12 +341,12 @@
         ""
       ]
     },
-     {
-      "key": 25,
+      {
+      "key": 19,
       "nameEn": "glasses",
       "nameVn": "kính",
       "IPA": "[ˈɡlɑːsɪz]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/512/2763295.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/en_gb_glasses.mp3",
       "exEn1": "",
@@ -445,12 +357,12 @@
         ""
       ]
     },
-     {
-      "key": 26,
-      "nameEn": "bracelet",
+      {
+      "key": 21,
+     "nameEn": "bracelet",
       "nameVn": "vòng đeo tay",
       "IPA": "[breɪslɪt]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2543937.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/06176.mp3",
       "exEn1": "",
@@ -461,12 +373,13 @@
         ""
       ]
     },
-    {
-      "key": 27,
+   
+        {
+      "key": 22,
       "nameEn": "hat",
       "nameVn": "mũ",
       "IPA": "[hæt]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3258179.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/25589.mp3",
       "exEn1": "",
@@ -477,12 +390,12 @@
         ""
       ]
     },
-    {
-      "key": 28,
+       {
+      "key": 23,
       "nameEn": "cap",
       "nameVn": "mũ lưỡi trai",
       "IPA": "[kæp]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/788067.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/07743.mp3",
       "exEn1": "",
@@ -494,11 +407,11 @@
       ]
     },
      {
-      "key": 29,
+      "key": 24,
       "nameEn": "rucksack",
       "nameVn": "ba lô",
       "IPA": "[rʌksæk]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2378448.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/47408.mp3",
       "exEn1": "",
@@ -510,11 +423,11 @@
       ]
     },
      {
-      "key": 30,
+      "key": 25,
       "nameEn": "gloves",
       "nameVn": "găng tay",
       "IPA": "[glʌv]",
-      "categorie": 5,
+      "categorie": 4,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2832115.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/23883.mp3",
       "exEn1": "",
@@ -526,11 +439,11 @@
       ]
     },
      {
-      "key": 31,
+      "key": 26,
       "nameEn": "read",
       "nameVn": "đọc",
       "IPA": "[riːd]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2471152.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/64106.mp3",
       "exEn1": "",
@@ -542,11 +455,11 @@
       ]
     },
      {
-      "key": 32,
+      "key": 27,
       "nameEn": "listen",
       "nameVn": "nghe",
       "IPA": "[lɪsən]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3031519.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/31918.mp3",
       "exEn1": "",
@@ -558,11 +471,11 @@
       ]
     },
     {
-      "key": 33,
+      "key": 28,
       "nameEn": "smile",
       "nameVn": "cười",
       "IPA": "[smaɪl]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2383637.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/51429.mp3",
       "exEn1": "",
@@ -574,11 +487,11 @@
       ]
     },
      {
-      "key": 34,
+      "key": 29,
       "nameEn": "eat",
       "nameVn": "ăn",
       "IPA": "[iːt]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/1886770.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17761.mp3",
       "exEn1": "",
@@ -590,11 +503,11 @@
       ]
     },
      {
-      "key": 35,
+      "key": 30,
       "nameEn": "draw",
       "nameVn": "vẽ",
       "IPA": "[drɔː]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2970188.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17113.mp3",
       "exEn1": "",
@@ -606,11 +519,11 @@
       ]
     },
     {
-      "key": 36,
+      "key": 31,
       "nameEn": "cry",
       "nameVn": "khóc",
       "IPA": "[kraɪ]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3431663.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/13361.mp3",
       "exEn1": "",
@@ -622,11 +535,11 @@
       ]
     },
      {
-      "key": 37,
+      "key": 32,
       "nameEn": "look",
       "nameVn": "nhìn",
       "IPA": "[lʊk]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3002827.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/32248.mp3",
       "exEn1": "",
@@ -638,11 +551,11 @@
       ]
     },
      {
-      "key": 38,
+      "key": 33,
       "nameEn": "touch",
       "nameVn": "chạm",
       "IPA": "[tʌtʃ]",
-      "categorie": 6,
+      "categorie": 5,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3162533.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/57507.mp3",
       "exEn1": "",
@@ -654,11 +567,11 @@
       ]
     },
     {
-      "key": 39,
+      "key": 36,
       "nameEn": "single bed",
       "nameVn": "giường đơn",
       "IPA": "[ˈsɪŋɡəl bɛd]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2338247.svg",
       "url": "",
       "exEn1": "",
@@ -670,11 +583,11 @@
       ]
     },
     {
-      "key": 40,
+      "key": 37,
       "nameEn": "duvet",
       "nameVn": "chăn bông",
       "IPA": "[duːveɪ]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/4427082.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/17599.mp3",
       "exEn1": "",
@@ -686,11 +599,11 @@
       ]
     },
     {
-      "key": 41,
+      "key": 38,
       "nameEn": "blanket",
       "nameVn": "cái mền",
       "IPA": "[blæŋkɪt]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3328006.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/05194.mp3",
       "exEn1": "",
@@ -702,11 +615,11 @@
       ]
     },
      {
-      "key": 42,
+      "key": 39,
       "nameEn": "lamp",
       "nameVn": "đèn",
       "IPA": "[læmp]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3172795.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/30791.mp3",
       "exEn1": "",
@@ -718,11 +631,11 @@
       ]
     },
     {
-      "key": 43,
+      "key": 40,
       "nameEn": "pillow",
       "nameVn": "cái gối",
       "IPA": "[pɪloʊ]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/3364411.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/40380.mp3",
       "exEn1": "",
@@ -734,11 +647,11 @@
       ]
     },
      {
-      "key": 44,
+      "key": 41,
       "nameEn": "wardrobe",
       "nameVn": "tủ quần áo",
       "IPA": "[wɔː'droʊb]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2697264.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/61010.mp3",
       "exEn1": "",
@@ -750,11 +663,11 @@
       ]
     },
      {
-      "key": 45,
+      "key": 42,
       "nameEn": "carpet",
       "nameVn": "thảm",
       "IPA": "[kɑː'pɪt]",
-      "categorie": 7,
+      "categorie": 6,
       "image": "https://www.flaticon.com/premium-icon/icons/svg/128/2251828.svg",
       "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/08000.mp3",
       "exEn1": "",
